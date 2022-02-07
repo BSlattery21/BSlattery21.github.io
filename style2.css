@@ -1,5 +1,5 @@
  h1 {color: rgb(255, 255, 255); font-family: "Courier New", monospace;}  
-        body {background-image: url("BackgroundImage.jpg"); width: 100%; max-width: 1024px; background-repeat: no-repeat; background-size:1920px 1240px;}
+        body {background-image: url("BackgroundImage.jpg"); width: 100%; max-width: 1024px; background-repeat: no-repeat; background-size:cover;}
 p {color: rgb(255,255,255); font-family: "Courier New", monospace;}
 #picture1 {float: left; width: 350px height:auto}
 #picture2 {float: right; width: 350px height:auto}

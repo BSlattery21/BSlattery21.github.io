@@ -1,4 +1,4 @@
- h1 {color: rgb(255, 255, 255); font-family: "Courier New", monospace; width:1024px }  
-        body {background-color: rgb(38, 94, 127);}
-p {color: rgb(255,255,255); font-family: "Courier New", monospace; width: 1024px; }
+ h1 {color: rgb(255, 255, 255); font-family: "Courier New", monospace;}  
+        body {background-color: rgb(38, 94, 127); width: 100%; max-width: 1024px;}
+p {color: rgb(255,255,255); font-family: "Courier New", monospace;}
 

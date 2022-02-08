@@ -1,7 +1,7 @@
  h1 {color: rgb(255, 255, 255); font-family: "Courier New", monospace;}  
         body {background-image: url("BackgroundImage.jpg"); width: 100%; max-width: 1024px; background-repeat: no-repeat; background-size:cover;}
 p {color: rgb(255,255,255); font-family: "Courier New", monospace;}
-#picture1 {float: left; width: 200px height:auto}
-#picture2 {float: right; width: 200px height:auto}
-#picture3 {float: left; width: 200px height:auto}
-#picture4 {float: right; width: 200px height:auto}
+#picture1 {float: left;}
+#picture2 {float: right;}
+#picture3 {float: left;}
+#picture4 {float: right;}
